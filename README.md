@@ -1,6 +1,6 @@
 # Importando o template do admintle3 para React
 
-## Passo a Passo
+### Passo a Passo
 
 1. **crie uma aplicação react (npx create-react-app app)**
 2. **[dowload admintle3](https://adminlte.io/)**
@@ -11,3 +11,10 @@
 7. **copie o codigo do index.html para App.js**
 8. **converta o codigo html para jsx**
 9. **rode o projeto com compando yarn start ou npm start**
+
+### Compoentes
+
+- **content**
+- **footer**
+- **navbar**
+- **sidebar**
